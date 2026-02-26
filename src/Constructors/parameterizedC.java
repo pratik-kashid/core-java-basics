@@ -18,7 +18,7 @@ public class parameterizedC {
     // For print something
     void display() {
 
-        System.out.println("Helo, "+name+" Welcome !!");
+        System.out.println("Hello, "+name+" Welcome !!");
         System.out.println("Your ID: "+id);
         System.out.println("Registered Mobile No: +91 "+Mo);
     }

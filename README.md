@@ -16,6 +16,8 @@ This repository contains basic programs written while learning Core Java.
   - Abstraction
   - Encapsulation
 - Exception Handling
+  - try-catch-finally block
+  - throw and throws
 
 ## Tools Used
 - Java

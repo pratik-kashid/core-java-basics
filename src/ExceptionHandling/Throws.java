@@ -3,7 +3,7 @@ package ExceptionHandling;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Throws {
+class Throws {
     static void readFile(String filename) throws IOException {
         FileReader file = new FileReader(filename);
     }

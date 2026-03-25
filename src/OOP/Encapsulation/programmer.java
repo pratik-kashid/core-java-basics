@@ -26,7 +26,7 @@ class Person {
     }
 }
 
-public class progammer {
+public class programmer {
     static void main() {
         Person person = new Person();
         person.setName("Pratik");

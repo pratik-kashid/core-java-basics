@@ -6,7 +6,7 @@ public class PrimitiveDatatypes {
     boolean isTrue = true;
 
     // 2. Byte Data Type (1 byte)
-    byte age = 21;
+    byte age = 20;
 
     // 3. Char Data Type (2 bytes)
     char ch = 'P';

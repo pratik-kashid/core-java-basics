@@ -1,4 +1,4 @@
-// Java first program
+package Basics;// Java first program
 
 public class HelloWorld {
 

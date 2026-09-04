@@ -18,8 +18,9 @@ public class numberGuessingGame {
             int guess = sc.nextInt();
 
             if(guess == number) {
-                System.out.println("Congratulations! You guessed correct number.");
+                System.out.println("Congratulations! You guessed correct number was " + number + ".");
                 sc.close();
+                return;
             }
             else if(guess < number) {
                 System.out.println("The number is greater than " + guess);

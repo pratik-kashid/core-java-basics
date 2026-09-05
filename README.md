@@ -7,7 +7,7 @@ This repository contains basic programs written while learning Core Java.
 - Constructors
 - Variables and Data Types
 - Conditional Statements (if, switch)
-- Loops (for, while, do-while)
+- Basics.Loops (for, while, do-while)
 - Methods
 - OOP Concepts
   - Classes and Objects
